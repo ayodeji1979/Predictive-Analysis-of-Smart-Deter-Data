@@ -1,4 +1,4 @@
-# PREDICTIVE ANALYSIS OF SNART METER DATA
+# PREDICTIVE ANALYSIS OF SMART METER DATA
 This repository cotains the file for a predictive analysis of smart meter data using machine learning models to predict household electricity consumption.
 
 ## Introduction
